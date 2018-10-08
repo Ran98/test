@@ -1,0 +1,8 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/admin/Desktop/%e6%88%98%e7%bd%91/%e6%95%88%e6%9e%9c%e5%9b%be/sel.png">
+  <Marks>
+    <LengthMark direction="12" color="16711680" length="20" x="385.5" y="170"/>
+    <LengthMark direction="3" color="16711680" length="45" x="231" y="119"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="2962239" offsetX="25" offsetY="10" x="214" y="119"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="2239034" offsetX="25" offsetY="10" x="179" y="55"/>
+  </Marks>
+</MKM>
