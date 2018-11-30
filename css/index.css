@@ -490,13 +490,11 @@ nav a:hover{
 /* 	position: absolute;
 	left: 35px;
 	bottom: 135px; */
-	text-overflow: ellipsis;
-    margin-left: 35px;
-    margin-right: 30px;
-    text-overflow: hidden;
-    overflow: hidden;
-    word-wrap: normal;
+	    margin-left: 35px;
+    text-overflow: ellipsis;
     white-space: nowrap;
+    overflow: hidden;
+    margin-right: 30px;
 }
 #Games li p{
 	color: #655d6c;
@@ -616,13 +614,11 @@ nav a:hover{
 /* 	position: absolute;
 	left: 35px;
 	bottom: 135px; */
-	    text-overflow: ellipsis;
-    margin-left: 35px;
-    margin-right: 35px;
-    text-overflow: hidden;
-    overflow: hidden;
-    word-wrap: normal;
+	      margin-left: 35px;
+    text-overflow: ellipsis;
     white-space: nowrap;
+    overflow: hidden;
+    margin-right: 30px;
 }
 #Games2 li p{
 	color: #655d6c;
